@@ -2,6 +2,6 @@
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
 
-Elmer
+## Elmer Alcides
 
 **Have fun building!** 🚀
